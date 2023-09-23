@@ -1,5 +1,6 @@
 Olá! Eu sou Rafael Benitez Duarte ✋
-🔭 Estudando Desenvolvimento Web - 🌱 Estou cursando Análise e Desenvolvimento de Sistemas.
+🌱 Formado em Análise e Desenvolvimento de Sistemas.
+🔭 Estudando Desenvolvimento Web.
 
 <a href="https://github.com/rafaelbenitezduartesharp">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelbenitezduartesharp&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
