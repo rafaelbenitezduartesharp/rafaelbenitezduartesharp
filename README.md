@@ -1,5 +1,7 @@
 Olá! Eu sou Rafael Benitez Duarte ✋
+
 🌱 Formado em Análise e Desenvolvimento de Sistemas.
+
 🔭 Estudando Desenvolvimento Web.
 
 <a href="https://github.com/rafaelbenitezduartesharp">
