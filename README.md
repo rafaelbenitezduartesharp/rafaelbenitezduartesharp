@@ -1,4 +1,5 @@
-Olá! Eu sou Rafael Benitez Duarte ✋
+Olá! Eu sou RAFAEL BENITEZ DUARTE  ✋
+![bem](https://github.com/rafaelbenitezduartesharp/rafaelbenitezduartesharp/assets/109101648/d4dbb66e-d7f6-4c2c-9092-175df91ad2ef)
 
 🌱 Formado em Análise e Desenvolvimento de Sistemas.
 
@@ -11,6 +12,7 @@ Olá! Eu sou Rafael Benitez Duarte ✋
 <h2>Tecnologias que eu uso no meu dia</h2>
 
 <h3>🚀 Skills<h3/>
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 <div style="display: inline_block">
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -28,3 +30,5 @@ Olá! Eu sou Rafael Benitez Duarte ✋
 <a href="https://komarev.com/ghpvc/?username=rafaelbenitezduartesharp" target="_blank">
 <img src="https://komarev.com/ghpvc/?username=rafaelbenitezduartesharp&label=Visualizações+do+Perfil&color=blueviolet" alt="Contador de Visualizações do Perfil" />
 </a>
+  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
